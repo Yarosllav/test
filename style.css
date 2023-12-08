@@ -1,0 +1,40 @@
+
+
+
+
+div {
+    color: rgb(106, 0, 255);
+}
+
+
+a:link {
+    color: rgb(12, 12, 166);
+    text-decoration: none;
+}
+
+a:visited {
+    color: rgb(8, 0, 252);
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(0, 123, 255);
+    text-decoration: underline;
+}
+
+a:active {
+    color: rgb(93, 42, 165);
+    text-decoration: underline;
+}
+
+
+div {
+    color: rgb(106, 0, 255);
+}
+
+p {
+    color: rgb(255, 0, 0);
+}
+h2 {
+    color: rgb(255, 0, 47);
+}
