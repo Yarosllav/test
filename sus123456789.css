@@ -1,0 +1,23 @@
+
+
+p {
+    color: #792323;
+
+    text-align: right;
+    
+}
+
+
+
+
+div {
+    
+    
+    margin: 0;
+    padding-top: 60px;
+    color: #000000;
+    border: 1px double red;
+    text-align: left; 
+    border: 3px groove red;
+    padding-left: 1;
+}
