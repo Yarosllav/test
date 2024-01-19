@@ -1,0 +1,39 @@
+@keyframes colorAnim {
+    from {
+        background-color: rgb(255, 230, 0);
+    }
+
+    25% {
+        background-color: black;
+    }
+
+    50% {
+        background-color: green;
+    }
+
+    70% {
+        background-color: greenyellow;
+    }
+
+    to {
+        background-color: grey;
+    }
+}
+
+
+
+/* div {
+    width: 10000px;
+    height: 1000px;
+    margin: 40px 30px;
+    border: 1px solid #ccc;
+
+    background-color: #ccc;
+    
+} */
+
+div:hover {
+    animation-name: colorAnim;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
